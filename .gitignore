@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WPIlib Specific
 
 dependency-reduced-pom.xml
@@ -241,6 +240,3 @@ imgui.ini
 /bazel-*
 user.bazelrc
 coverage_report/
-=======
-build\
->>>>>>> fd67c7dc8 (Added necessary requirements for ReadTheDocs and Markdown)
