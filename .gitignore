@@ -241,5 +241,6 @@ imgui.ini
 user.bazelrc
 coverage_report/
 source/_build/
+.vscode/
 temp.md
 temp.rst
