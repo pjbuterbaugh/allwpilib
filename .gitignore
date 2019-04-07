@@ -240,3 +240,6 @@ imgui.ini
 /bazel-*
 user.bazelrc
 coverage_report/
+source/_build/
+temp.md
+temp.rst
