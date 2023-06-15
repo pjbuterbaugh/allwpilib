@@ -35,6 +35,8 @@ FRC Glossary
    CRTP
       Continuously Recurring Template Pattern - A software idiom in which a class `X`` derives from a class template instantiation using `X`` itself as a template argument. See `CRTP <https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern>`__ on Wikipedia for more info.
 
+   CTRE
+      Shorthand for "Cross the Road Electronics", the manufacturer for the Power Distribution Panel, Talon motor conrollers, and Victor SP/SPX.
    C++
       One of the three officially supported programming languages.
 
@@ -189,7 +191,7 @@ FRC Glossary
       In :term:`NetworkTables`, a :term:`topic` that will disappear after the last :term:`publisher` stops publishing.
 
    user program
-      In the context of the :term:`roboRIO` control system, the primary FRC runtime program that handles all communication and robot operations.
+      In the context of the roboRIO control system, the primary FRC runtime program that handles all communication and robot operations.
 
    watchdog
       A timer mechanism often built into embedded devices or software to monitor the runtime status of a program and reset it if crashes or errors occur. The watchdog will reset the main program if the timer itself is not reset, an activity which occurs during normal operations of the program.
