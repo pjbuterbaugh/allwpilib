@@ -1,9 +1,7 @@
 Placeholder for Safety Writeup
 ==============================
 
-.. Note::
-
-	From <https://www.chiefdelphi.com/t/severe-100-packet-loss/428031/139?u=peter_johnson/>
+.. Note:: From a Chief Delphi `thread reply <https://www.chiefdelphi.com/t/severe-100-packet-loss/428031/139?u=peter_johnson/>`_ by WPILib Developer Peter Johnson.
 
 I/O Safety
 -----------
